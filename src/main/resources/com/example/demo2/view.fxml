@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Polygon?>
+<?import javafx.scene.shape.QuadCurve?>
+<?import javafx.scene.shape.Rectangle?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="400.0" stroke="BLACK" strokeType="INSIDE" width="600.0" />
+      <QuadCurve controlX="-18.66668701171875" controlY="-137.3333282470703" endX="192.0" endY="14.666671752929688" fill="RED" layoutX="236.0" layoutY="174.0" startX="-126.66665649414062" startY="14.666671752929688" stroke="RED" strokeType="INSIDE" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="RED" height="84.0" layoutX="109.0" layoutY="189.0" stroke="RED" strokeType="INSIDE" width="319.0" />
+      <QuadCurve controlX="38.66668701171875" controlY="-67.33332824707031" endX="8.66668701171875" endY="17.0" fill="RED" layoutX="500.0" layoutY="256.0" startX="-72.0" startY="-67.33332824707031" stroke="RED" strokeType="INSIDE" />
+      <Circle fill="RED" layoutX="119.0" layoutY="231.0" radius="42.0" stroke="RED" strokeType="INSIDE" />
+      <Polygon fill="RED" layoutX="419.0" layoutY="321.0" points="9.0, -48.0, 89.66668701171875, -48.0, 9.0, -131.99998474121094" stroke="RED" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="191.0" layoutY="261.0" radius="52.0" stroke="WHITE" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="398.0" layoutY="261.0" radius="52.0" stroke="WHITE" strokeType="INSIDE" />
+      <Circle layoutX="191.0" layoutY="261.0" radius="42.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle layoutX="398.0" layoutY="261.0" radius="42.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="191.0" layoutY="261.0" radius="24.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fill="WHITE" layoutX="398.0" layoutY="261.0" radius="24.0" stroke="BLACK" strokeType="INSIDE" />
+      <Polygon fill="WHITE" layoutX="303.0" layoutY="190.0" points="-51.0, -1.9999847412109375, 89.66668701171875, -1.9999847412109375, -51.0, -63.99999237060547" stroke="WHITE" strokeType="INSIDE" />
+      <QuadCurve controlX="-8.66668701171875" controlY="26.333328247070312" endX="36.0" endY="75.66667175292969" fill="WHITE" layoutX="356.0" layoutY="113.0" startX="-106.66668701171875" startY="13.000007629394531" stroke="WHITE" strokeType="INSIDE" />
+      <Polygon fill="WHITE" layoutX="281.0" layoutY="189.0" points="-41.66668701171875, -1.9999847412109375, -138.66665649414062, -1.9999847412109375, -41.66668701171875, -63.66667938232422" stroke="WHITE" strokeType="INSIDE" />
+      <QuadCurve controlX="-113.33331298828125" controlY="-49.33332824707031" endX="-40.66668701171875" endY="-58.66667938232422" fill="WHITE" layoutX="279.0" layoutY="185.0" startX="-136.0" startY="2.6666717529296875" stroke="WHITE" strokeType="INSIDE" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="10.0" layoutX="256.0" layoutY="204.0" stroke="BLACK" strokeType="INSIDE" width="26.0" />
+      <QuadCurve controlX="-30.0" controlY="-40.66667175292969" endX="-24.0" endY="-8.666671752929688" fill="WHITE" layoutX="522.0" layoutY="234.0" startX="-64.66668701171875" startY="-32.66667175292969" stroke="BLACK" strokeType="INSIDE" />
+      <QuadCurve controlX="-50.46759033203125" controlY="-40.16667175292969" endX="-62.66668701171875" endY="-68.99998474121094" fill="WHITE" layoutX="522.0" layoutY="271.0" startX="-23.33331298828125" startY="-47.66667175292969" stroke="BLACK" strokeType="INSIDE" />
+   </children>
+</AnchorPane>
